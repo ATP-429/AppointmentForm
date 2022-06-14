@@ -1,4 +1,5 @@
 React JSX code in public/jsx folder. <br />
+Node.js code in server.js <br />
 Uploads form information to local mongodb database. <br />
 On successful upload : <br />
 ![Success](docs/success.png)
